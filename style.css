@@ -2,16 +2,16 @@ button{
     background-color: #191919;
     color: white;
     transition: .3s;
-    border: 0.5px solid white;
+    border: 0.2px solid rgb(235, 232, 232);
     border-radius: 5px;
     padding: 7px;
-    letter-spacing: 1px;
+    letter-spacing: 1.5px;
 }
 
 button:hover{
-    background-color: #0a702e;
+    background-color: #ff3c00;
 }
 .ny{
     color: #0a702e;
-    font-size: 40px;
+    font-size: 37px;
 }
